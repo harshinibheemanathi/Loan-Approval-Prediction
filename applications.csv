@@ -1,0 +1,5 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Application_ID,Prediction,Model_Used,Submitted_At
+Male,No,0,Graduate,No,3812.5,1188.5,128.0,360.0,1,Urban,APP-20261029183128550007,Approved,Random Forest,2026-10-29 18:31:28
+Male,No,0,Graduate,Yes,3812.5,1188.5,128.0,369.0,0,Urban,APP-20261029183145730244,Rejected,Random Forest,2026-10-29 18:31:45
+Male,No,0,Graduate,Yes,3812.5,1188.5,128.0,369.0,1,Urban,APP-20261029183158053405,Approved,Random Forest,2026-10-29 18:31:58
+Male,No,0,Graduate,No,3812.5,1188.5,128.0,360.0,1,Urban,APP-20261029183335028799,Approved,Random Forest,2026-10-29 18:33:35
